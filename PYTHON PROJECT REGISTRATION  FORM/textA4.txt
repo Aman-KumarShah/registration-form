@@ -1,0 +1,19 @@
+
+    There are multiple assessments,   
+    benchmarking and certification 
+    platforms for professionals 
+    learning to code. 
+
+    However, for K12 Coding 
+    education, there was a void of 
+    a global organization that 
+    could assess, benchmark, and 
+    certify the learning outcome 
+    and skills for students aged 6-16. 
+
+    BrainHacks fills that void 
+    with a platform for children 
+    as well, where they can 
+    benchmark their skills and 
+    prepare themseleves a bit early 
+    for their coding journey.
